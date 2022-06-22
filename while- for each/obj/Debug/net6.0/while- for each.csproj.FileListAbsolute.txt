@@ -1,0 +1,15 @@
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\while- for each\bin\Debug\net6.0\while- for each.exe
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\while- for each\bin\Debug\net6.0\while- for each.deps.json
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\while- for each\bin\Debug\net6.0\while- for each.runtimeconfig.json
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\while- for each\bin\Debug\net6.0\while- for each.dll
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\while- for each\bin\Debug\net6.0\while- for each.pdb
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\while- for each\obj\Debug\net6.0\while- for each.csproj.AssemblyReference.cache
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\while- for each\obj\Debug\net6.0\while- for each.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\while- for each\obj\Debug\net6.0\while- for each.AssemblyInfoInputs.cache
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\while- for each\obj\Debug\net6.0\while- for each.AssemblyInfo.cs
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\while- for each\obj\Debug\net6.0\while- for each.csproj.CoreCompileInputs.cache
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\while- for each\obj\Debug\net6.0\while- for each.dll
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\while- for each\obj\Debug\net6.0\refint\while- for each.dll
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\while- for each\obj\Debug\net6.0\while- for each.pdb
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\while- for each\obj\Debug\net6.0\while- for each.genruntimeconfig.cache
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\while- for each\obj\Debug\net6.0\ref\while- for each.dll
